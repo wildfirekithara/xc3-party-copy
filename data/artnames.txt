@@ -1,0 +1,938 @@
+0
+#N/A
+#N/A
+#N/A
+#N/A
+Sword Strike (5)
+Edge Thrust (6)
+Shadow Eye (7)
+Air Slash (8)
+Ground Beat (9)
+Sword Strike (10)
+Edge Thrust (11)
+Edge Thrust (12)
+Shadow Eye (13)
+Shadow Eye (14)
+Air Slash (15)
+Ground Beat (16)
+Overclock Buster (17)
+Infinity Blade (18)
+Unlimited Sword (19)
+Overclock Buster (20)
+#N/A
+#N/A
+#N/A
+#N/A
+Butterfly Blade (25)
+Speed Demon (26)
+Air Fang (27)
+Wide Slash (28)
+Glow Ring (29)
+Butterfly Blade (30)
+Speed Demon (31)
+Speed Demon (32)
+Air Fang (33)
+Air Fang (34)
+Wide Slash (35)
+Wide Slash (36)
+Glow Ring (37)
+Gemini Strike (38)
+Dominion Flower (39)
+Gemini Strike (40)
+#N/A
+#N/A
+Vortex (43)
+Myopic Screen (44)
+Group Heal (45)
+Power Ring (46)
+Ether Cannon (47)
+Vortex (48)
+Vortex (49)
+Myopic Screen (50)
+Group Heal (51)
+Power Ring (52)
+Ether Cannon (53)
+Healing Ring (54)
+Healing Ring (55)
+Healing Ring (56)
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+Overfall (62)
+Stormy Skies (63)
+Hazy Figure (64)
+Dark Banner (65)
+Avenging Eagle (66)
+Overfall (67)
+Stormy Skies (68)
+Stormy Skies (69)
+Hazy Figure (70)
+Dark Banner (71)
+Dark Banner (72)
+Avenging Eagle (73)
+Avenging Eagle (74)
+Tidal Wave (75)
+Tidal Wave (76)
+Tidal Wave (77)
+#N/A
+#N/A
+#N/A
+#N/A
+Solid Stance (82)
+Bull Rush (83)
+Crash Out (84)
+Uppercut Slash (85)
+Variable Turret (86)
+Solid Stance (87)
+Bull Rush (88)
+Crash Out (89)
+Uppercut Slash (90)
+Variable Turret (91)
+Mad Taunt (92)
+Mad Taunt (93)
+#N/A
+#N/A
+#N/A
+#N/A
+Hammerhead (98)
+Big Impact (99)
+Giant Swing (100)
+Cannonball (101)
+Maximum Voltage (102)
+Hammerhead (103)
+Big Impact (104)
+Big Impact (105)
+Giant Swing (106)
+Giant Swing (107)
+Cannonball (108)
+Maximum Voltage (109)
+Pressure Drop (110)
+Pressure Drop (111)
+#N/A
+#N/A
+#N/A
+#N/A
+Cross Impact (116)
+Acceleration (117)
+Swallowtail (118)
+Million Flash (119)
+Silver Cyclone (120)
+Cross Impact (121)
+Acceleration (122)
+Revolution Edge (123)
+Hidden Thorn (124)
+Null Slash (125)
+Saber Strike (126)
+Saber Strike (127)
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+Ready-Steady (134)
+Wok-a-Block (135)
+Hot Cuisine (136)
+Final Say (137)
+Roasty-Toasty (138)
+Ready-Steady (139)
+Wok-a-Block (140)
+Hot Cuisine (141)
+Final Say (142)
+Roasty-Toasty (143)
+Determination (144)
+Determination (145)
+Flashback (146)
+Flashback (147)
+Extended Slash (148)
+Recharge (149)
+Energy Grenade (150)
+Sharpest Tool (151)
+Sharpest Tool (152)
+Sword of Valor (153)
+Sword of Valor (154)
+#N/A
+#N/A
+#N/A
+#N/A
+No Love Lost (159)
+Mirror Trap (160)
+Moonshadow (161)
+Gyreflow (162)
+Razor Wind (163)
+No Love Lost (164)
+No Love Lost (165)
+Mirror Trap (166)
+Mirror Trap (167)
+Earth Bind (168)
+Earth Bind (169)
+Hornet (170)
+Moondog (171)
+Soulfire (172)
+Soulfire (173)
+#N/A
+#N/A
+#N/A
+#N/A
+Twin Moons (178)
+Shadow Parade (179)
+Sweet Breeze (180)
+Empty Shell (181)
+Snowdrift (182)
+Twin Moons (183)
+Shadow Parade (184)
+Shadow Parade (185)
+Autumn Rain (186)
+Autumn Rain (187)
+Ring o' Roses (188)
+Ring o' Roses (189)
+Way Home (190)
+Glittering Melody (191)
+Glittering Melody (192)
+#N/A
+#N/A
+#N/A
+#N/A
+Leveling Fire (197)
+Crimson Lance (198)
+Sturm und Drang (199)
+Heavenly Spear (200)
+Searing Fury (201)
+Leveling Fire (202)
+Crimson Lance (203)
+Dragon's Snarl (204)
+Inferno Dance (205)
+Inferno Dance (206)
+Flamelord (207)
+Flamelord (208)
+Empyrean Salvo (209)
+Empyrean Salvo (210)
+#N/A
+#N/A
+#N/A
+#N/A
+Taunt Pulse (215)
+Shockwave (216)
+Geo Breaker (217)
+Bolt Flinger (218)
+Lightning Strike (219)
+Taunt Pulse (220)
+Taunt Pulse (221)
+Shockwave (222)
+Shockwave (223)
+Mighty Beat (224)
+Shield Wall (225)
+Electro Field (226)
+Thunder Steel (227)
+Thunder Steel (228)
+#N/A
+#N/A
+#N/A
+#N/A
+Saber Slash (233)
+Redemption (234)
+Last Hope (235)
+Merciful Heart (236)
+Redeeming Bloom (237)
+Saber Slash (238)
+Redemption (239)
+Redemption (240)
+Hydro Blast (241)
+Aqua Mind (242)
+Waterlily (243)
+Divine Sword (244)
+Divine Sword (245)
+Divine Sword (246)
+#N/A
+#N/A
+Summon Element (249)
+Elemental Discharge (250)
+Starlight Kick (251)
+Shadow Stitch (252)
+Power Effect (253)
+Summon Element (254)
+Summon Element (255)
+Elemental Discharge (256)
+Shadow Stitch (257)
+Power Effect (258)
+Starfall (259)
+Starfall (260)
+Element Genesis (261)
+Element Genesis (262)
+#N/A
+#N/A
+Heal Bullet (265)
+Cure Bullet (266)
+Surprise Beat (267)
+Trickshot (268)
+Hyper Reload (269)
+Heal Bullet (270)
+Cure Bullet (271)
+Cure Bullet (272)
+Vital Bullet (273)
+Multi Blast (274)
+Multi Blast (275)
+Advanced Cooldown (276)
+Technical Heal (277)
+Technical Heal (278)
+#N/A
+#N/A
+#N/A
+#N/A
+Noble Taunt (283)
+Shield Bash (284)
+Proud Edge (285)
+Victory Shift (286)
+Celestial Strike (287)
+Noble Taunt (288)
+Noble Taunt (289)
+Shield Bash (290)
+Shield Bash (291)
+Falcon Swoop (292)
+Grand Protection (293)
+Imperial Sword (294)
+Deflector Field (295)
+Deflector Field (296)
+#N/A
+#N/A
+#N/A
+#N/A
+Divine Protection (301)
+Rank Splitter (302)
+Furious Flash (303)
+Profound Strength (304)
+All-Slayer (305)
+Divine Protection (306)
+Rank Splitter (307)
+Spearpoint Thrust (308)
+Leaping Current (309)
+Leaping Current (310)
+Violent Flurry (311)
+Violent Flurry (312)
+Demise Thrust (313)
+Demise Thrust (314)
+#N/A
+#N/A
+#N/A
+#N/A
+Reversal Edge (319)
+Sidewinder (320)
+Etched Deep (321)
+Luminous Illusion (322)
+Mirage Divide (323)
+Reversal Edge (324)
+Sidewinder (325)
+Sidewinder (326)
+Glitter Stream (327)
+Mystic Vision (328)
+Aerial Slash (329)
+Supreme Sword (330)
+Supreme Sword (331)
+#N/A
+#N/A
+#N/A
+Night Hunt (335)
+Landslide (336)
+Downdraft (337)
+Force of Nature (338)
+Liberation Arrow (339)
+Night Hunt (340)
+Landslide (341)
+Driving Arrow (342)
+Rapid Shot (343)
+Staying Power (344)
+Refreshing Rain (345)
+Refreshing Rain (346)
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+Demon Slayer (353)
+Eye of the Storm (354)
+Wind Sickle (355)
+Inferno Wheel (356)
+Ascension Blade (357)
+Demon Slayer (358)
+Demon Slayer (359)
+Eye of the Storm (360)
+Soaring Tempest (361)
+Soaring Tempest (362)
+Jaws of Death (363)
+Jaws of Death (364)
+Gale Slash (365)
+Gale Slash (366)
+Blossom Dance (367)
+Blossom Dance (368)
+Blossom Dance (369)
+#N/A
+#N/A
+#N/A
+#N/A
+Resonant Flag (374)
+Illuminate (375)
+Max Effort (376)
+Lightning Passion (377)
+Unbreakable Heart (378)
+Resonant Flag (379)
+Illuminate (380)
+Spirited Charge (381)
+Heal Harmony (382)
+Heal Harmony (383)
+Aureole (384)
+Cry of Faith (385)
+Cry of Faith (386)
+#N/A
+#N/A
+#N/A
+#N/A
+Fatal Bite (391)
+Tyrant Cross (392)
+Fury Reaper (393)
+Seventh Edge (394)
+Hundred Shells (395)
+Fatal Bite (396)
+Tyrant Cross (397)
+Mega Crescent (398)
+Havoc Slayer (399)
+Terror Onslaught (400)
+Viral Vector (401)
+Viral Vector (402)
+Viral Vector (403)
+#N/A
+#N/A
+#N/A
+#N/A
+Focus (408)
+Detonating Hit (409)
+Hyper Dropkick (410)
+Comet Punch (411)
+Rampaging Fists (412)
+Focus (413)
+Detonating Hit (414)
+Jackal Claw (415)
+Destructive Charge (416)
+Impulse Wave (417)
+Raging Force (418)
+Raging Force (419)
+Raging Force (420)
+#N/A
+#N/A
+#N/A
+#N/A
+Demolition (425)
+Dead Set (426)
+Showdown (427)
+Executioner (428)
+Vengeance (429)
+Demolition (430)
+Demolition (431)
+Dead Set (432)
+Dead Set (433)
+Superstorm (434)
+Superstorm (435)
+Quickdraw (436)
+Fatal Barrage (437)
+Fatal Barrage (438)
+Violent Streak (439)
+Violent Streak (440)
+Violent Streak (441)
+#N/A
+#N/A
+Gravity Blow (444)
+Dimension Ripper (445)
+Tachyon Slash (446)
+Power Raiser (447)
+Night Breaker (448)
+Harmonic Wave (449)
+Final Lucky Seven (450)
+Gravity Blow (451)
+Dimension Ripper (452)
+Tachyon Slash (453)
+Power Raiser (454)
+Night Breaker (455)
+Harmonic Wave (456)
+Final Lucky Seven (457)
+Gravity Blow (458)
+Dimension Ripper (459)
+Tachyon Slash (460)
+Power Raiser (461)
+Night Breaker (462)
+Harmonic Wave (463)
+Final Lucky Seven (464)
+#N/A
+Aero Burst (466)
+Driving Bullet (467)
+Rising Blast (468)
+Tri-Shot (469)
+Hair Trigger (470)
+Bullet Rush (471)
+#N/A
+#N/A
+Phantom Slash (474)
+Dragon Tail (475)
+Rolling Smash (476)
+Bounding End (477)
+Glorious Wing (478)
+Unison Strike (479)
+Mega Spinning Edge (480)
+Origin Blade (481)
+#N/A
+#N/A
+Radiant Ring (484)
+Deadly Twister (485)
+Dual Fang (486)
+Full Moon Drop (487)
+Shining Halo (488)
+Jaguar Slash (489)
+Resonant Edge (490)
+#N/A
+#N/A
+Lightning Arrow (493)
+Ether Collider (494)
+Typhoon Field (495)
+Feather Sanctuary (496)
+Raptor Raid (497)
+Liberty Wing (498)
+Sacred Cannon (499)
+#N/A
+#N/A
+Spirit Raven (502)
+Lurking Spider (503)
+Grand Priest (504)
+Fleeting Form (505)
+Body Double (506)
+Atomize (507)
+Eightfold Divide (508)
+#N/A
+#N/A
+Ray of Punishment (511)
+Sudden Impact (512)
+Titan Fists (513)
+Volcano Cannon (514)
+Incredible Guard (515)
+Burning Rain (516)
+Winning Rush (517)
+#N/A
+#N/A
+Earth Crusher (520)
+Wing Smash (521)
+Mortal Bullet (522)
+Hellbound (523)
+Flame Nova (524)
+Dino Upper (525)
+Hammer Revolution (526)
+#N/A
+#N/A
+#N/A
+#N/A
+Final Countdown (531)
+Final Countdown (532)
+Final Countdown (533)
+Ultra Boost (534)
+Magnificent Fist (535)
+Peril Punch (536)
+Captain Strike (537)
+Pirate Lariat (538)
+Hard Dig (539)
+Beast Howl (540)
+Thunderclap (541)
+Healing Rest (542)
+Sumo Press (543)
+Shell Guard (544)
+Bubble Cloud (545)
+Burrowing Rocket (546)
+Raid Strike (547)
+Electric Skin (548)
+Trick Dart (549)
+Butterfly Dust (550)
+Snake Eyes (551)
+Poison Spray (552)
+Hawk Shot (553)
+Water Jet (554)
+Cursed Cuisine (555)
+Dragon Gas (556)
+Hypno-Light (557)
+Tail Slap (558)
+Hypnotism (559)
+Horn Dance (560)
+Wild Wave (561)
+Battle Pheromone (562)
+Last Fencer (563)
+Life Plant (564)
+Pointy Stick (565)
+Double Slap (566)
+Draining Vacuum (567)
+Aquatic Missile (568)
+Piercing Laser (569)
+Dino Storm (570)
+Spinning Bolt (571)
+Aquaball (572)
+Bomberhead (573)
+Cavalry (574)
+Trout Hop (575)
+Jet Stream (576)
+Desperate Charge (577)
+Dragon Decree (578)
+Dual Attack (579)
+Shark Shock (580)
+Ether Sphere (581)
+Psychowave (582)
+Vampire Bat (583)
+Neck Slice (584)
+Spit Beam (585)
+Transient Bond (586)
+Gatling Peck (587)
+Dino Flash (588)
+Radiant Arts (589)
+Rhino Storm (590)
+Double Bite (591)
+Predation (592)
+Double Strike (593)
+Dig (594)
+Ministorm (595)
+Fin of Fear (596)
+Spider Web (597)
+Hydra Gas (598)
+Toxic Gas (599)
+King's Bash (600)
+Elimination Beam (601)
+Murder Knuckle (602)
+Evasive Posture (603)
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+Dual Flash (712)
+Dazzling Illusion (713)
+Starry Beat (714)
+Afterglow (715)
+Photon Storm (716)
+Dual Flash (717)
+Dazzling Illusion (718)
+Refractive Edge (719)
+Lustrous Spike (720)
+Tri-Slash (721)
+Shining Refrain (722)
+Shining Refrain (723)
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+Blessed Edge (731)
+Golden Heart (732)
+Solid Silver (733)
+Majestic Zone (734)
+Platinum Shards (735)
+Blessed Edge (736)
+Golden Heart (737)
+Golden Heart (738)
+Rigid Slicer (739)
+Rigid Slicer (740)
+Prismatic Ring (741)
+Vivid Carve (742)
+Pride of Place (743)
+Pride of Place (744)
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+Backspin Punch (750)
+Mighty Strike (751)
+Revolt Uppercut (752)
+Detonating Hit (753)
+Raging Force (754)
+Energy Boost (755)
+Gigantic Beat (756)
+#N/A
+#N/A
+Shaker Edge (759)
+Cross Ray (760)
+Light Field (761)
+Sword Mirage (762)
+Lost Ray (763)
+Skyfoil (764)
+Vision (765)
+Vanishing End (766)
+#N/A
+#N/A
+Motor Lifter (769)
+Whirlwind (770)
+Steady Assault (771)
+Blitz Punch (772)
+Smart Bomb (773)
+Machine Clap (774)
+Total Destruction (775)
+#N/A
+#N/A
+Illusory Bloom (778)
+Great Garland (779)
+Flare Aria (780)
+Daybreak Hymn (781)
+Burning Ballad (782)
+Meteor Flame (783)
+Elysian Anthem (784)
+#N/A
+#N/A
+Stream Edge (787)
+Heavy Rush (788)
+Slit Edge (789)
+Monado Rage (790)
+Monado Armor (791)
+Monado Purge (792)
+Monado Buster (793)
+#N/A
+#N/A
+Anchor Shot (796)
+Double Spinning Edge (797)
+Dual Blast (798)
+Cross Blaze (799)
+Rolling Smash (800)
+Sword Bash (801)
+Infinity Blade (802)
+#N/A
+#N/A
+Detonating Wave (805)
+Lightning Bash (806)
+Demolition Bullet (807)
+Double Impulse (808)
+Bounding Ray (809)
+Compound Force (810)
+Divine Blaster (811)
+#N/A
+#N/A
+Stream Edge (814)
+Heavy Rush (815)
+Slit Edge (816)
+Monado Rage (817)
+Monado Armor (818)
+Monado Purge (819)
+Monado Buster (820)
+#N/A
+#N/A
+Anchor Shot (823)
+Double Spinning Edge (824)
+Dual Blast (825)
+Cross Blaze (826)
+Rolling Smash (827)
+Sword Bash (828)
+Infinity Blade (829)
+#N/A
+#N/A
+Detonating Wave (832)
+Lightning Bash (833)
+Demolition Bullet (834)
+Double Impulse (835)
+Bounding Ray (836)
+Compound Force (837)
+Divine Blaster (838)
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+Mega Crash (848)
+Mega Crash (849)
+Mega Crash (850)
+Mega Crash (851)
+Hellstream (852)
+Hellstream (853)
+Hellstream (854)
+Hellstream (855)
+Tri-Calamity (856)
+Tri-Calamity (857)
+Tri-Calamity (858)
+Tri-Calamity (859)
+Detonating Punch (860)
+Mighty Hit (861)
+Detonating Revolt (862)
+Raging Punch (863)
+Mighty Force (864)
+Raging Revolt (865)
+Energy Punch (866)
+Mighty Boost (867)
+Energy Revolt (868)
+Mirage Edge (869)
+Cross Mirage (870)
+Mirage Field (871)
+Lost Edge (872)
+Lost Cross (873)
+Lost Field (874)
+Shaker Foil (875)
+Sky Ray (876)
+Sky Field (877)
+Motor Punch (878)
+Blitz Wind (879)
+Blitz Assault (880)
+Motor Bomb (881)
+Bomb Wind (882)
+Smart Assault (883)
+Machine Lifter (884)
+Wind Clap (885)
+Steady Machine (886)
+Bloom Hymn (887)
+Garland Hymn (888)
+Flare Hymn (889)
+Burning Bloom (890)
+Burning Garland (891)
+Flare Ballad (892)
+Meteor Bloom (893)
+Great Flame (894)
+Meteor Aria (895)
+Stream Rage (896)
+Heavy Rage (897)
+Rage Edge (898)
+Armor Stream (899)
+Armor Rush (900)
+Edge Armor (901)
+Purge Stream (902)
+Heavy Purge (903)
+Purge Edge (904)
+Blaze Shot (905)
+Double Spinning Blaze (906)
+Dual Blaze (907)
+Rolling Shot (908)
+Double Spinning Smash (909)
+Rolling Blast (910)
+Anchor Bash (911)
+Double Spinning Bash (912)
+Blast Sword (913)
+Detonating Impulse (914)
+Double Lightning (915)
+Demolition Impulse (916)
+Bounding Wave (917)
+Lightning Ray (918)
+Bounding Bullet (919)
+Detonating Force (920)
+Compound Lightning (921)
+Compound Bullet (922)
+Mega Crash (923)
+Mega Explosion (924)
+Mega Blast (925)
+Mega Smash (926)
+Monado Crash (927)
+Blast Slash (928)
+Ether Slash (929)
+Slash Bomb (930)
+Double Cyclone (931)
+Hellstream (932)
+Sacred Ray (933)
+Flame Slash (934)
+Element Bomb (935)
+Arrow Cyclone (936)
+Tri-Calamity (937)

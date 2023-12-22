@@ -1,0 +1,10 @@
+[package]
+name = "xc3-savetest"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+recordkeeper = { git =" https://github.com/RoccoDev/recordkeeper", rev = "d2e0564181e4fe5f0e1ee952ad77cee705373b37", features = ["strum"] }
+strum = "0.25.0"

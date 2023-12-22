@@ -1,0 +1,420 @@
+0
+Cypher Edge
+Sharp Eye
+Covert Attack
+Inspirit
+Stormy Gale
+Ether's Sanctuary
+Split-Second Counter
+I'll Defend You
+Eternal Formation
+Medical Mind
+Speedy Recovery
+Ninja Healer
+Ethereal Ability
+Shieldrender
+Eternal Curse
+Inevitable Evitability
+Defensive Soul
+I'll Protect You
+Tenacious Blocker
+Aggravator
+Fighting Prowess
+Insult to Injury
+Dynamite Spirit
+Fury Smash
+First Move Wins
+Capable Hands
+Critical Strike
+Fighting Instinct
+Slicey-Dicey!
+Bangsplosion!
+Sappy-Sappy Drain!
+Preppy-Preppy Link!
+Strengthening Gambit
+Prowess Gambit
+Sapping Gambit
+Preemption Gambit
+Swiftsong
+Endsong
+Dance of Barrages
+Dance of Life
+Beast Mode
+Universal Annihilation
+Greatest Warrior
+Got the Guts
+Stay Right There!
+Come an' Get Me!
+Now That's Tactics!
+Never Again!
+Steadfast Feelings
+Instant Regen+
+Enhanced Cellular Stimulus
+Abundant Oceans
+Elemental Boost
+Essence of Ether
+Fortified Ether Guard
+Here I Shall Stand
+Recovery Engine
+Healing License
+Rescue License
+Antibody System
+Mind for Guarding
+I'll Help
+Soldier's Potential
+Protector's Pride
+Wheel of Rebirth
+Qinggong
+Ultimate Qigong
+Life-Saving Fists
+Adroit Blade
+Eye for Weak Points
+Floating Kill
+Vigilance
+Serene Heart
+Swift Death
+In Cold Blood
+Evasion Expertise
+Goading Attack
+Natural Selection
+Maniac
+Returning the Favor
+Cheer Up
+We Can Do Better
+I've Got Your Backs
+Brightest Star
+Cursed Edge
+Chaos Chain
+Anti-Erosion System
+Phantom Strike
+Storm and Stress
+Frenzied Combo
+Flashing Punch
+Feline Righting Reflex
+Bullet Symphony
+Shock Shot
+Sixth Sense
+Precision Shot
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
+Sniper
+Clinical Mentality
+I'll Survive
+Power Bullet
+Link Force
+Omnipresent Blade
+Satisfying Piercer
+Opportunity in Crisis
+Biting Back
+Subtle Strike
+Eyes on the Prize
+Clearsight
+Wings of Healing
+Wings of Pursuit
+Unceasing Blessing
+Shared Blessing
+Eclipse
+Unceasing Curse
+Strength Sapper
+Shared Curse
+Steady Advance
+Reflection
+Hefty Protection
+Strength in Adversity
+Utterly Crushing
+Merciless Pummeling
+Explosive Spirit
+Extreme Pursuit
+Attack Up
+Attack Up
+Healing Power Up
+Healing Power Up
+Dexterity Up
+Dexterity Up
+Agility Up
+Agility Up
+Critical Up
+Critical Up
+#N/A
+#N/A
+#N/A
+#N/A
+Block Rate Up
+Block Rate Up
+Attack Plus
+Attack Plus
+Healing Power Plus
+Healing Power Plus
+Dexterity Plus
+Dexterity Plus
+Agility Plus
+Agility Plus
+Critical Plus
+Critical Plus
+#N/A
+#N/A
+#N/A
+#N/A
+Block Rate Plus
+Block Rate Plus
+Heat Control: Time
+Heat Control: Time
+Heat Control: Time
+#N/A
+#N/A
+#N/A
+Unlock Arts Canceling
+Heat Control: Arts Canceling
+Heat Control: Arts Canceling
+Underworld Rage
+Amazing Growth
+Recharge Cheer
+Magic Transmutation
+Soul Hack
+Tough Soul
+Dodge Soul
+Power Soul
+Strike Soul
+Heal Soul
+Balanced Soul
+Grace of the Land
+Air Body
+Emergency Turbo
+Mimic Technique
+Counter Puncher
+Systematic Defense
+Sacrificial Heal
+Monarch's Heart
+Non-Stop Barrage
+Just a Moment
+Megashout
+Underworld Rage
+Strike Shirker
+Royal Charisma
+Amazing Growth
+Sandsmoke
+Dangerous Claws
+Hot Soul
+Fiery Morale
+Dual-Horn Pressure
+Heavy Armor
+Apothecary's Wisdom
+Celestial Conqueror
+Creeping Predator
+Queenly Pride
+Needle Shell
+Royal Aide
+Strength Support
+Attack Heal
+Power Pick-Me-Up
+Battle Fever
+Reckless Attack
+Wolf Spirit
+Wild Tendencies
+Attack Mastery
+Defense Mastery
+Healing Mastery
+Energy Efficiency
+Tactical Eye
+Excessive Armor
+Sense of Danger
+Defense Time
+Instant Charge
+Drain Guard
+Surprise Attack
+Reserve Life
+Revenge Impetus
+Super Explosion
+Awakilling
+Scattered Healing
+Damage Share
+Eagle Rush
+Large-Scale Shock
+Action Reaction
+Supercharged
+Deflector Plate
+Aquatic Warrior
+Breath of an Era
+Terran Warrior
+One with the Land
+Debuff Counter
+Recharge Cheer
+Mano a Mano Evasion
+Berserker Mindset
+Magic Transmutation
+Exoshell
+Nimbleness Itself
+Accelerating Attacks
+Blasting Stomp
+Natural Guard
+Accelerator Organ
+Ultranull Shield
+Physical Absorber
+Spiritual Absorber
+Emperor of Violence
+Queen of Mercy
+Deeply Tactical
+Positional Attacker
+Dodge Acceleration
+All About Support
+Positioning Pro
+Cheer Up
+Tit For Tat
+Nanomachine Repair
+Velocity Gear
+Overclock
+Tit For Tat
+Nanomachine Repair
+Velocity Gear
+Overclock
+Attack Up
+Attack Up
+Agility Up
+Agility Up
+Critical Plus
+Critical Plus
+Physical Defense Plus
+Physical Defense Plus
+Ether Defense Plus
+Ether Defense Plus
+TP Plus
+TP Plus
+Star Treatment
+Beaming Edge
+Fascinator
+Ring à la Mode
+Right Back At You
+Natural Born Warrior
+Gentleman's Valor
+Mechanical Rhythm
+Raging Flame
+Lightspeed Blade
+Heroic Spirit
+Flash and Flame
+Breaking Waves
+Flashing Fists
+Giant-Killer
+Victor's Combo
+Initiative Effect: Acceleration
+Quick Move Damage Up
+Quick Move AOE Damage
+Slower Arts Aggro
+Aerial Recovery
+Quicksilver Blade
+Life-Saving Sword
+Clearsight
+Armor Piercing
+Initiative Effect: Decoy
+Slower Attack Aggro
+Party Recharge (Self KO)
+Aggro Reduce Up (Targeted)
+Field Duration Up
+Safe and Sound
+Block-Counter Assembly
+Concealed Strength
+Advanced Lamellar Armor
+Initiative Effect: Defense
+Physical Absorb
+Ether Absorb
+Auto Aggro Up
+Guard Efficiency Up
+Ouroboros Power Awakened
+Soothing Fire
+Healing Genius
+Will to Aid
+Rapid Response
+Initiative Effect: Critical
+Field Duration Up
+Longer Buff Timers
+Longer Debuff Timers
+Slower Healing Aggro
+Ouroboros Power Awakened
+Right Back At You
+Natural Born Warrior
+Sword of Reprisal
+Mechanical Rhythm
+Initiative Effect: Break
+Unbeatable
+Faster Damage Aggro
+Evasion Up (Art)
+Ranged Evasion
+Raging Flame
+Lightspeed Blade
+Heroic Spirit
+Flash and Flame
+Initiative Effect: Launch
+Chain Gauge Up (Art)
+Enemy Count Damage Up
+Instant KO (Low HP)
+Unblockable
+Mystic Magnification
+Piercing Will
+Worldbutcher
+Ether Squared
+Max HP Up
+Max HP Up
+Attack Up
+Attack Up
+Healing Power Up
+Healing Power Up
+Dexterity Up
+Dexterity Up
+Agility Up
+Agility Up
+Critical Up
+Critical Up
+#N/A
+#N/A
+#N/A
+#N/A
+Block Rate Up
+Block Rate Up
+Max HP Plus
+Max HP Plus
+Attack Plus
+Attack Plus
+Healing Power Plus
+Healing Power Plus
+Dexterity Plus
+Dexterity Plus
+Agility Plus
+Agility Plus
+Critical Plus
+Critical Plus
+Physical Defense Plus
+Physical Defense Plus
+Ether Defense Plus
+Ether Defense Plus
+Block Rate Plus
+Block Rate Plus
+Unlock Arts Canceling
+TP Plus
+Mighty Link
+Mighty Amp
+Attack Zone
+First and Foremost
+All But Fatal
+Heat Haze
+Demon's Gate
+Passage of Fate
+Cleave Heaven and Earth
+Rapid Adaptation
+The Protectors
+Maximum Output
+Promised Land
+Divine Blades
+Immortal Legend
+Physical Defense Plus
+Ether Defense Plus
+Attack Plus
+Max HP Plus
